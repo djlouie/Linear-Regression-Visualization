@@ -10,7 +10,7 @@ The notebook `LinearRegressionSCAI.ipynb` was developed as a teaching tool for s
 </a>
 
 ---
-**### This includes the following animations and the code to create them:**
+### **This includes the following animations and the code to create them:**
 
 ![](https://github.com/djlouie/Linear-Regression-Visualization/blob/main/animations/animation_loss.gif)
 
