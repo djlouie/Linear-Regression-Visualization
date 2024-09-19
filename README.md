@@ -1,6 +1,6 @@
 # Linear-Regression-Visualization
  
-A simple, from the ground up, explanation of Linear Regression that gives a coding, mathematical, and visual understanding. 
+A simple, from the ground up, explanation of Linear Regression that provides a coding, mathematical, and visual understanding. 
 
 ---
 The notebook `LinearRegressionSCAI.ipynb` was developed as a teaching tool for students at Santa Cruz Artificial Intelligence (SCAI) at UCSC, to illustrate concepts in linear regression. A shortcut to the file can be found here:
