@@ -18,3 +18,6 @@ The notebook `LinearRegressionSCAI.ipynb` was developed as a teaching tool for s
 
 ![](https://github.com/djlouie/Linear-Regression-Visualization/blob/main/animations/3D_Linear_Reg.gif)
 
+---
+If you end up using these visualizations elsewhere, it would be great if you could cite this github or me. I hope you enjoyed the visualization 😄
+
