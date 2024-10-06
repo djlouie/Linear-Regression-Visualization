@@ -19,7 +19,7 @@ The notebook `LinearRegressionSCAI.ipynb` was developed as a teaching tool for s
 ![](https://github.com/djlouie/Linear-Regression-Visualization/blob/main/animations/3D_Linear_Reg.gif)
 
 ---
-Special shoutout to Josh Starmer and his book *The StatQuest Illustrated Guide To Machine Learning* which helped me learn these concepts which I created visualizations for! It is a great read and I definitely recommend it.
+Special shoutout to Josh Starmer PhD and his book *The StatQuest Illustrated Guide To Machine Learning* which helped me learn these concepts which I created visualizations for! It is a great read and I definitely recommend it.
 
 If you end up using these visualizations elsewhere, it would be great if you could credit this github or me. I hope you enjoyed the visualization 😄
 
